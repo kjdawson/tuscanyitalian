@@ -3,7 +3,7 @@
 OVERVIEW 
 
 This is a website that I built for a client in Houston Texas. They own an Italian Restaurant 
-and that has a strong web presence on review sites like Yelp and Urbanspoon but never took the
+that has a strong web presence on review sites like Yelp and Urbanspoon but never took the
 time to implement a website. They wanted to have their website to work on mobile and on desktop. 
 They didn't want anything flashy or complex just a simple, clean site.
 
